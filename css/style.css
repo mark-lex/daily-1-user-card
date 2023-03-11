@@ -17,7 +17,7 @@ header {
 
 header nav {
     color: white;
-    background-color: grey;
+    background-color: #4361ee;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
@@ -152,7 +152,7 @@ header nav ul li {
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    border-top: solid 1px #eceffd;
+    border-top: solid 1px #d9dffc;
     width: 100%;
 }
 
@@ -166,19 +166,19 @@ header nav ul li {
 }
 
 .userinfo .audience .post, .flwr {
-    border-right: solid 1px #eceffd;
+    border-right: solid 1px #d9dffc;
 }
 
 footer {
     display: flex;
     justify-content: center;
     align-items: center;
-    border-top: solid 1px rgb(210, 210, 210);
+    border-top: solid 1px #d9dffc;
     margin-top: 50px;
     padding: 20px;
 }
 
 footer h3 {
     font-weight: 100;
-    color:rgb(120, 120, 120);
+    color:#6981f1;
 }
